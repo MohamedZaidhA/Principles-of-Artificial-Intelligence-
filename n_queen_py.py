@@ -37,3 +37,18 @@ if(solutions):
   display(solutions)
 else:
   print("No solution")
+
+
+# Sample output for n=4
+# The solutions are:
+# Solution 1:
+# . Q . . 
+# . . . Q 
+# Q . . . 
+# . . Q . 
+# 
+# Solution 2:
+# . . Q . 
+# Q . . . 
+# . . . Q 
+# . Q . . 
